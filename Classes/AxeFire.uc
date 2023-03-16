@@ -23,7 +23,7 @@ defaultproperties
      FireAnims(1)="Fire"
      FireAnims(2)="Fire"
      FireAnims(3)="Fire"
-     MeleeDamage=125
+     MeleeDamage=175
      ProxySize=0.150000
      weaponRange=90.000000
      DamagedelayMin=0.800000
