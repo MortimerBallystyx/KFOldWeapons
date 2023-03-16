@@ -27,7 +27,7 @@ defaultproperties
      BobDamping=8.000000
      AttachmentClass=class'AxeAttachment'
      IconCoords=(X1=169,Y1=39,X2=241,Y2=77)
-     ItemName="Axe"
+     ItemName="KFMOD Axe"
      Mesh=SkeletalMesh'KFWeaponModelsOldMod.Axe'
      Skins(0)=Shader'KillingFloorWeapons.Axe.AxeShineShader'
      Skins(1)=Texture'KillingFloorWeapons.Deagle.HandSkinNew'
