@@ -11,7 +11,7 @@ defaultproperties
      SpeedValue=32
      RangeValue=-20
      Description="A sturdy fireman's axe."
-     ItemName="KFMOD Axe"
+     ItemName="Axe"
      ItemShortName="Axe"
      CorrespondingPerkIndex=4
      InventoryType=class'Axe'
