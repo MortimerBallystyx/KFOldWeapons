@@ -7,8 +7,8 @@ defaultproperties
 {
      Weight=3.000000
      cost=100
-     PowerValue=35
-     SpeedValue=56
+     PowerValue=45
+     SpeedValue=70
      RangeValue=-20
      Description="This bit of broken pipe looks like it was pried from a gas-line."
      ItemName="Broken Pipe"
