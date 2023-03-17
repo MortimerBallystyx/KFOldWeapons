@@ -211,7 +211,7 @@ defaultproperties
      BobDamping=6.000000
      AttachmentClass=class'CrossbowAttachment'
      IconCoords=(X1=253,Y1=146,X2=333,Y2=181)
-     ItemName="Compound Crossbow"
+     ItemName="Crossbow"
      LightType=LT_None
      LightBrightness=0.000000
      LightRadius=0.000000
