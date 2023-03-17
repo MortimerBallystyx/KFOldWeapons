@@ -6,7 +6,7 @@ class LAWPickup extends KFWeaponPickup;
 defaultproperties
 {
      Weight=11.000000
-     cost=2500
+     cost=4500
      AmmoCost=55
      BuyClipSize=1
      PowerValue=100
