@@ -5,14 +5,14 @@ class LAWPickup extends KFWeaponPickup;
 
 defaultproperties
 {
-     Weight=14.000000
-     cost=600
-     AmmoCost=30
+     Weight=11.000000
+     cost=2500
+     AmmoCost=55
      BuyClipSize=1
      PowerValue=100
      SpeedValue=20
      RangeValue=64
-     Description="Light Anti Tank weapon. Designed to punch through armored vehicles."
+     Description="Light Anti-tank Weapon. Designed to punch through armored vehicles."
      ItemName="L.A.W"
      ItemShortName="L.A.W"
      AmmoItemName="L.A.W Rockets"
