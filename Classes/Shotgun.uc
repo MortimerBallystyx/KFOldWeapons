@@ -7,7 +7,7 @@ defaultproperties
 {
      FirstPersonFlashlightOffset=(X=-25.000000,Y=-18.000000,Z=8.000000)
      MagCapacity=8
-     ReloadRate=0.800000
+     ReloadRate=0.400000
      ReloadAnim="Reload"
      ReloadAnimRate=1.900000
      WeaponReloadAnim="Reload_Shotgun"
