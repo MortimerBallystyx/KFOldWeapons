@@ -134,7 +134,7 @@ defaultproperties
      AIRating=0.550000
      CurrentRating=0.550000
      bShowChargingBar=true
-     Description="A military grade automatic rifle. Can be fired in semi-auto or full auto firemodes and comes equipped with a scope for increased accuracy."
+     Description="A military grade automatic rifle, comes equipped with a scope for increased accuracy."
      EffectOffset=(X=100.000000,Y=25.000000,Z=-10.000000)
      DisplayFOV=75.000000
      Priority=4
@@ -147,7 +147,7 @@ defaultproperties
      BobDamping=6.000000
      AttachmentClass=class'BullpupAttachment'
      IconCoords=(X1=245,Y1=39,X2=329,Y2=79)
-     ItemName="Bullpup"
+     ItemName="SA80 Bullpup"
      Mesh=SkeletalMesh'KFWeaponModelsOldMod.L85'
      Skins(0)=Texture'KillingFloorWeapons.Deagle.HandSkinNew'
      Skins(1)=Texture'KillingFloorWeapons.Deagle.ArmSkinNew'
