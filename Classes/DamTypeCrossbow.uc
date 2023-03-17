@@ -8,7 +8,7 @@ static function AwardKill(KFSteamStatsAndAchievements KFStatsAndAchievements, KF
 
 defaultproperties
 {
-     HeadShotDamageMult=2.500000
+     HeadShotDamageMult=2.000000
      bSniperWeapon=true
      bThrowRagdoll=true
      bRagdollBullet=true
