@@ -7,9 +7,9 @@ defaultproperties
 {
      FirstPersonFlashlightOffset=(X=-25.000000,Y=-18.000000,Z=8.000000)
      MagCapacity=8
-     ReloadRate=1.200000
+     ReloadRate=0.600000
      ReloadAnim="Reload"
-     ReloadAnimRate=1.500000
+     ReloadAnimRate=0.900000
      WeaponReloadAnim="Reload_Shotgun"
      HudImage=Texture'KillingFloorHUD.WeaponSelect.combat_shotgun_unselected'
      SelectedHudImage=Texture'KillingFloorHUD.WeaponSelect.combat_shotgun'
