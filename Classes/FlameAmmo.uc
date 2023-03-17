@@ -8,7 +8,7 @@ class FlameAmmo extends KFAmmunition;
 defaultproperties
 {
      AmmoPickupAmount=80
-     MaxAmmo=400
+     MaxAmmo=600
      InitialAmount=400
      PickupClass=class'FTAmmoPickup'
      IconMaterial=Texture'KillingFloorHUD.Generic.HUD'
