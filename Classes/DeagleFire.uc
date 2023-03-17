@@ -128,8 +128,8 @@ defaultproperties
      ShellEjectBoneName="Shell_eject"
      StereoFireSound=Sound'KFOldModSnd.Weapon.50CalFire'
      DamageType=class'DamTypeDeagle'
-     DamageMin=85
-     DamageMax=105
+     DamageMin=115
+     DamageMax=136
      Momentum=20000.000000
      bPawnRapidFireAnim=true
      bWaitForRelease=true
