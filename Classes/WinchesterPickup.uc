@@ -20,8 +20,8 @@ defaultproperties
      SpeedValue=35
      RangeValue=90
      Description="A rugged and reliable single-shot rifle."
-     ItemName="Lever Action Rifle"
-     ItemShortName="Lever Action"
+     ItemName="Winchester"
+     ItemShortName="Winchester"
      AmmoItemName="Rifle bullets"
      CorrespondingPerkIndex=2
      EquipmentCategoryID=2
