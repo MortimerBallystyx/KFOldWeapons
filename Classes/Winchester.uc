@@ -148,7 +148,7 @@ defaultproperties
      PlayerViewOffset=(X=8.000000,Y=18.000000,Z=-4.000000)
      BobDamping=6.000000
      AttachmentClass=class'WinchesterAttachment'
-     ItemName="Lever Action Rifle"
+     ItemName="Winchester"
      bUseDynamicLights=true
      Mesh=SkeletalMesh'KFWeaponModelsOldMod.Winchester'
      DrawScale=0.900000
