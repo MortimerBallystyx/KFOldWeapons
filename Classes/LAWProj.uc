@@ -445,7 +445,7 @@ defaultproperties
      bTrueBallistics=false
      Speed=2600.000000
      MaxSpeed=3000.000000
-     Damage=1750.000000
+     Damage=1600.000000
      DamageRadius=400.000000
      MomentumTransfer=200000.000000
      MyDamageType=class'DamTypeLAW'
