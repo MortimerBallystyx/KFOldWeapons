@@ -61,8 +61,8 @@ defaultproperties
      ShellEjectBoneName="Bullpup"
      StereoFireSound=SoundGroup'KFOldModSnd.Weapon.L85All'
      DamageType=class'DamTypeBullpup'
-     DamageMin=26
-     DamageMax=36
+     DamageMin=22
+     DamageMax=30
      Momentum=8500.000000
      bPawnRapidFireAnim=true
      TransientSoundVolume=30.799999
