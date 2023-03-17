@@ -184,6 +184,7 @@ defaultproperties
      ZoomMat=FinalBlend'KFOldModAmmo.CCFB'
      bHasScope=true
      MagCapacity=1
+     Weight=9.000000
      ReloadRate=0.010000
      WeaponReloadAnim="Reload_Crossbow"
      HudImage=Texture'KillingFloorHUD.WeaponSelect.crossbow_unselected'
