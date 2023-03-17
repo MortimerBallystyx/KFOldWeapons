@@ -11,11 +11,11 @@ function ShowDualiesInfo(Canvas C)
 
 defaultproperties
 {
-     Weight=4.000000
+     Weight=2.000000
      cost=150
      AmmoCost=10
      BuyClipSize=30
-     PowerValue=35
+     PowerValue=40
      SpeedValue=85
      RangeValue=35
      Description="A pair of custom 9mm handguns."
