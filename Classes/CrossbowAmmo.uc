@@ -5,7 +5,7 @@ class CrossbowAmmo extends KFAmmunition;
 defaultproperties
 {
      AmmoPickupAmount=8
-     MaxAmmo=40
+     MaxAmmo=36
      InitialAmount=40
      PickupClass=class'CrossbowAmmoPickup'
      IconMaterial=Texture'KillingFloorHUD.Generic.HUD'
