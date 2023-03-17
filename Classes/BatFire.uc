@@ -28,6 +28,6 @@ defaultproperties
      MeleeHitSounds(0)=Sound'KFOldModSnd.Damage.bathitflesh'
      MeleeHitSounds(1)=Sound'KFOldModSnd.Damage.bathitflesh2'
      MeleeHitSounds(2)=Sound'KFOldModSnd.Damage.bathitflesh3'
-     FireRate=0.450000
+     FireRate=0.710000
      BotRefireRate=0.710000
 }
