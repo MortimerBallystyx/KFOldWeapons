@@ -31,5 +31,5 @@ defaultproperties
      BotRefireRate=1.500000
      FlashEmitterClass=class'ROEffects.MuzzleFlash1stKar'
      aimerror=1.000000
-     Spread=1500.000000
+     Spread=750.000000
 }
