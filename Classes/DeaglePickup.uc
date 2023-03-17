@@ -33,11 +33,11 @@ function inventory SpawnCopy( pawn Other )
 
 defaultproperties
 {
-     Weight=5.000000
-     cost=200
+     Weight=3.000000
+     cost=500
      AmmoCost=15
      BuyClipSize=7
-     PowerValue=65
+     PowerValue=75
      SpeedValue=35
      RangeValue=60
      Description="50 Cal AE handgun. A powerful personal choice for personal defense."
