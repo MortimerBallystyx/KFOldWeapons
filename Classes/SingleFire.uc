@@ -34,8 +34,8 @@ defaultproperties
      StereoFireSound=Sound'KFOldModSnd.Weapon.9mmShot'
      bRandomPitchFireSound=false
      DamageType=class'DamTypeDualies'
-     DamageMin=25
-     DamageMax=35
+     DamageMin=35
+     DamageMax=39
      Momentum=10000.000000
      bPawnRapidFireAnim=true
      bAttachSmokeEmitter=true
