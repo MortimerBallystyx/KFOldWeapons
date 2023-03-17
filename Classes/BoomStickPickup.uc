@@ -11,10 +11,10 @@ function ShowShotgunInfo(Canvas C)
 
 defaultproperties
 {
-     cost=450
+     cost=750
      AmmoCost=25
      BuyClipSize=6
-     PowerValue=90
+     PowerValue=100
      SpeedValue=30
      RangeValue=12
      Description="A double barreled shotgun used by big game hunters."
