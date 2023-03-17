@@ -440,13 +440,13 @@ defaultproperties
      DisintegrateSound=Sound'Inf_Weapons.panzerfaust60.faust_explode_distant02'
      ArmDistSquared=90000.000000
      ImpactDamageType=class'DamTypeRocketImpact'
-     ImpactDamage=1150
+     ImpactDamage=1350
      AmbientVolumeScale=5.000000
      bTrueBallistics=false
      Speed=2600.000000
      MaxSpeed=3000.000000
-     Damage=650.000000
-     DamageRadius=200.000000
+     Damage=1750.000000
+     DamageRadius=400.000000
      MomentumTransfer=200000.000000
      MyDamageType=class'DamTypeLAW'
      ExplosionDecal=class'ROEffects.RocketMarkDirt'
