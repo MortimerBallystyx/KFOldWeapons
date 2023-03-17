@@ -5,10 +5,10 @@ class CrossbowPickup extends KFWeaponPickup;
 
 defaultproperties
 {
-     cost=400
-     AmmoCost=15
+     cost=800
+     AmmoCost=30
      BuyClipSize=5
-     PowerValue=64
+     PowerValue=90
      SpeedValue=50
      RangeValue=100
      Description="Recreational hunting weapon, equipped with powerful scope and firing trigger. Exceptional headshot damage."
@@ -20,7 +20,7 @@ defaultproperties
      EquipmentCategoryID=3
      MaxDesireability=0.790000
      InventoryType=class'Crossbow'
-     PickupMessage="You got the Xbow."
+     PickupMessage="You got the Crossbow."
      PickupSound=Sound'KFOldModSnd.Weapon.GunPickupKF'
      PickupForce="AssaultRiflePickup"
      StaticMesh=StaticMesh'KillingFloorStatics.XbowGround'
