@@ -5,10 +5,10 @@ class FlameThrowerPickup extends KFWeaponPickup;
 
 defaultproperties
 {
-     cost=400
+     cost=750
      AmmoCost=30
      BuyClipSize=50
-     PowerValue=30
+     PowerValue=35
      SpeedValue=100
      RangeValue=40
      Description="A deadly experimental weapon designed by Horzine industries. It can fire streams of burning liquid which ignite on contact."
