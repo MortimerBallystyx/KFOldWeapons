@@ -14,7 +14,7 @@ function ShowShotgunInfo(Canvas C)
 defaultproperties
 {
      Weight=8.000000
-     cost=300
+     cost=500
      BuyClipSize=8
      PowerValue=70
      SpeedValue=40
