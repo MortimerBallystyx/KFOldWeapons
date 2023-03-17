@@ -9,7 +9,7 @@ defaultproperties
      MagCapacity=8
      ReloadRate=0.600000
      ReloadAnim="Reload"
-     ReloadAnimRate=0.900000
+     ReloadAnimRate=0.600000
      WeaponReloadAnim="Reload_Shotgun"
      HudImage=Texture'KillingFloorHUD.WeaponSelect.combat_shotgun_unselected'
      SelectedHudImage=Texture'KillingFloorHUD.WeaponSelect.combat_shotgun'
