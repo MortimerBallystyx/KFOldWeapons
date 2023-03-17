@@ -197,7 +197,7 @@ defaultproperties
      Speed=2300.000000
      MaxSpeed=2400.000000
      TossZ=200.000000
-     Damage=20.000000
+     Damage=14.000000
      DamageRadius=150.000000
      MomentumTransfer=0.000000
      MyDamageType=class'KFMod.DamTypeBurned'
