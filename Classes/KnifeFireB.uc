@@ -3,7 +3,7 @@ class KnifeFireB extends KFMeleeFire;
 
 defaultproperties
 {
-     MeleeDamage=40
+     MeleeDamage=55
      DamagedelayMin=0.500000
      DamagedelayMax=0.500000
      hitDamageClass=class'DamTypeKnife'
