@@ -61,10 +61,10 @@ defaultproperties
      MagCapacity=1
      ReloadRate=3.000000
      WeaponReloadAnim="Reload_LAW"
-     MinimumFireRange=300
+     MinimumFireRange=250
      HudImage=Texture'KillingFloorHUD.WeaponSelect.law_unselected'
      SelectedHudImage=Texture'KillingFloorHUD.WeaponSelect.LAW'
-     Weight=14.000000
+     Weight=11.000000
      bHasAimingMode=true
      IdleAimAnim="AimIdle"
      StandardDisplayFOV=75.000000
