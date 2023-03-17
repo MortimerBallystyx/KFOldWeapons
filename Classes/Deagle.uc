@@ -40,7 +40,7 @@ defaultproperties
      WeaponReloadAnim="Reload_Single9mm"
      HudImage=Texture'KillingFloorHUD.WeaponSelect.handcannon_unselected'
      SelectedHudImage=Texture'KillingFloorHUD.WeaponSelect.handcannon'
-     Weight=4.000000
+     Weight=3.000000
      IdleAimAnim="Idle_Iron"
      StandardDisplayFOV=60.000000
      bModeZeroCanDryFire=true
