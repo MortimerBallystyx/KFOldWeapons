@@ -6,6 +6,7 @@ class CrossbowPickup extends KFWeaponPickup;
 defaultproperties
 {
      cost=800
+     Weight=9.000000
      AmmoCost=30
      BuyClipSize=5
      PowerValue=90
