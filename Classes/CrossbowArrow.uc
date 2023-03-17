@@ -274,7 +274,7 @@ defaultproperties
      HeadShotDamageMult=6.000000
      Speed=7500.000000
      MaxSpeed=10000.000000
-     Damage=120.000000
+     Damage=300.000000
      MomentumTransfer=150000.000000
      MyDamageType=class'DamTypeCrossbow'
      ExplosionDecal=class'KFMod.ShotgunDecal'
