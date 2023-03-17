@@ -204,8 +204,8 @@ defaultproperties
      maxHorizontalRecoilAngle=250
      StereoFireSound=Sound'KFOldModSnd.Weapon.WinchesterFire'
      DamageType=class'DamTypeWinchester'
-     DamageMin=110
-     DamageMax=140
+     DamageMin=140
+     DamageMax=156
      Momentum=18000.000000
      bPawnRapidFireAnim=true
      bWaitForRelease=true
