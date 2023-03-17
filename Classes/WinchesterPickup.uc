@@ -16,7 +16,7 @@ defaultproperties
      Weight=6.000000
      cost=300
      BuyClipSize=10
-     PowerValue=50
+     PowerValue=60
      SpeedValue=35
      RangeValue=90
      Description="A rugged and reliable single-shot rifle."
