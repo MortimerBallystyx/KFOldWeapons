@@ -249,8 +249,8 @@ defaultproperties
      maxHorizontalRecoilAngle=50
      StereoFireSound=Sound'KFOldModSnd.Weapon.9mmShot'
      DamageType=class'DamTypeDualies'
-     DamageMin=25
-     DamageMax=35
+     DamageMin=35
+     DamageMax=40
      Momentum=10500.000000
      bPawnRapidFireAnim=true
      bAttachSmokeEmitter=true
